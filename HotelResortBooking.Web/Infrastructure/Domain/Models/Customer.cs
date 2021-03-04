@@ -13,8 +13,6 @@ namespace HotelResortBooking.Web.Infrastructure.Domain.Models
 
         public string EmailAddress { get; set; }
 
-        public string HomeAddress { get; set; }
-
         public string ContactNumber { get; set; }
     }
 }
